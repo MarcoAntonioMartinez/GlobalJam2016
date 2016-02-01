@@ -19,7 +19,7 @@ Loading C:\Users\MLB\Desktop\Slime kingz Full Project\Slime King_Data\Managed\Un
 Platform assembly: C:\Users\MLB\Desktop\Slime kingz Full Project\Slime King_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\MLB\Desktop\Slime kingz Full Project\Slime King_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
 Platform assembly: C:\Users\MLB\Desktop\Slime kingz Full Project\Slime King_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.431 seconds
+- Completed reload, in  0.116 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
